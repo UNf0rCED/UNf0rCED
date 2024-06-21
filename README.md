@@ -1,12 +1,6 @@
-## Hi there 👋
+Hi My name is Mikhail Tikhonov
+developer of neural networks
+I am still starting to explore this path, but I do not intend to stop there and expect excellent results.
 
-<!--
-**UNf0rCED/UNf0rCED** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-- 🌱 I am studying the development of neural networks, I would be glad of your help)
-- 📫 How to reach me: telegram - @UNf0rCED
-- ⚡ Fun fact: I like to hold tea ceremonies using Chinese tea in one variety
--->
+🌍 I'm based in Samara, Russian Federation
+✉️ You can contact me at unforced@inbox.ru
